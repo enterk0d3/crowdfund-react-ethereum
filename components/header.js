@@ -7,12 +7,12 @@ export default () => {
 	return (
 		<Menu style={{ marginTop: '10px' }}>
 			<Link route='/'>
-				<a className="item"> CrowdCoin
+				<a className="item"> NasdemCoin
 				</a>
 			</Link>
 
 			<Menu.Item>
-				Biografly Coin
+				Prananda Coin
 			</Menu.Item>
 
 			<Menu.Menu position="right">

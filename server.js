@@ -1,6 +1,7 @@
 const { createServer } = require('http');
 const next = require('next');
 
+//initialize nextJS to intercept app
 const app = next({
 	dev: process.env.NODE.ENV !== 'production'
 });

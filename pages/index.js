@@ -11,9 +11,9 @@ class CampaignIndex extends Component {
 	// 	console.log(campaigns);
 	// }
 
-	//not use because NextJS specification
+	//not being used because NextJS specification
 
-	//use method exclusively for NextJS for initial data loading
+	//use method exclusively for NextJS for initial data loading (getInitialProps)
 	//NextJS will first render the getInitialProps methods only
 	//return some data and provided to actual CampaignIndex component
 
